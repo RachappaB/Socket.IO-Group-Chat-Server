@@ -13,9 +13,9 @@ If you need any assistance or have questions, feel free to contact me at [Rachap
 
 ## Screenshots
 
-<img src="https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(147).png" alt="Screenshot 1" width="600">
-<img src="https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(148).png" alt="Screenshot 2" width="600">
-<img src="https://github.com/Piyushsingh8055/E-COMMERCE-WEBSITE-Online-Pooja-Samagri-/blob/main/Screenshot%20(149).png" alt="Screenshot 3" width="600">
+<img src="https://raw.githubusercontent.com/RachappaB/Socket.IO-/refs/heads/main/1.png" alt="Screenshot 1" width="600">
+<img src="https://raw.githubusercontent.com/RachappaB/Socket.IO-/refs/heads/main/2.png" alt="Screenshot 2" width="600">
+<img src="https://raw.githubusercontent.com/RachappaB/Socket.IO-/refs/heads/main/3.png" alt="Screenshot 3" width="600">
 
 ## Getting Started
 
